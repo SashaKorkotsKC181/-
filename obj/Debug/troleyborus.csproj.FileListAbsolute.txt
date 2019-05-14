@@ -1,0 +1,6 @@
+D:\troleyborus\troleyborus\bin\Debug\troleyborus.exe.config
+D:\troleyborus\troleyborus\obj\Debug\troleyborus.csprojResolveAssemblyReference.cache
+D:\troleyborus\troleyborus\bin\Debug\troleyborus.exe
+D:\troleyborus\troleyborus\bin\Debug\troleyborus.pdb
+D:\troleyborus\troleyborus\obj\Debug\troleyborus.exe
+D:\troleyborus\troleyborus\obj\Debug\troleyborus.pdb
